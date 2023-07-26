@@ -62,4 +62,34 @@
         <xhtml:link rel="alternate" hreflang="es" href="https://www.nuclidental.com/es/implantes-dentales/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://www.nuclidental.com/fr/implants-dentaires/"/>
     </url>
+    <url>
+        <loc>https://www.nuclidental.com/ortodoncia/</loc>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://www.nuclidental.com/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.nuclidental.com/en/orthodontics/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.nuclidental.com/es/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.nuclidental.com/fr/orthodontie/"/>
+    </url>
+    <url>
+        <loc>https://www.nuclidental.com/en/orthodontics/</loc>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://www.nuclidental.com/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.nuclidental.com/en/orthodontics/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.nuclidental.com/es/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.nuclidental.com/fr/orthodontie/"/>
+    </url>
+
+    <url>
+        <loc>https://www.nuclidental.com/es/ortodoncia/</loc>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://www.nuclidental.com/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.nuclidental.com/en/orthodontics/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.nuclidental.com/es/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.nuclidental.com/fr/orthodontie/"/>
+    </url>
+
+    <url>
+        <loc>https://www.nuclidental.com/fr/orthodontie/</loc>
+        <xhtml:link rel="alternate" hreflang="ca" href="https://www.nuclidental.com/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.nuclidental.com/en/orthodontics/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://www.nuclidental.com/es/ortodoncia/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://www.nuclidental.com/fr/orthodontie/"/>
+    </url>
 </urlset>
